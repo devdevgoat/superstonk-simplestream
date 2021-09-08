@@ -2,7 +2,9 @@
 
 I don't really do support, but if something is really broken/confusing shoot me a note @devdevgoat or u/devdevgoat. This works best when run in VS codes virtual shell:
 
-!["Screenshot Preview"](./screen1.png "Preview")
+!["VSCode Preview"](./screen1.png "VS Code Preview")
+!["CMD Preview"](./cmd.png "CMD Preview")
+!["PowerShell Preview"](./ps.png "PowerShell Preview")
 
 # Notes:
 
