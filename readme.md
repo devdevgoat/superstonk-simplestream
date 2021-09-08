@@ -1,6 +1,14 @@
 # Intro
 
-I don't really do support, but if something is really broken/confusing shoot me a note @devdevgoat or u/devdevgoat
+I don't really do support, but if something is really broken/confusing shoot me a note @devdevgoat or u/devdevgoat. This works best when run in VS codes virtual shell:
+
+!["Screenshot Preview"](./screen1.png "Preview")
+
+# Notes:
+
+    - link clicking doesn't seem to work in powershell/cmd
+    - havent tried on mac yet
+    - price action only updates from the time you run the app, so on first run everything will show 0.00 change most likely. I could change this to price from open... but don't want to parse the data frame yet, maybe later.
 
 # Setup
 
@@ -18,8 +26,10 @@ I don't really do support, but if something is really broken/confusing shoot me 
 
 7. Run the app from pipenv shell:
 
-        ```pipenv shell
-        python stream.py```
+```bash
+pipenv shell 
+python stream.py
+```
 
    or from terminal:
 
