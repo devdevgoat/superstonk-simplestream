@@ -6,6 +6,7 @@ from yahoo_fin import stock_info as si
 from dotenv import load_dotenv, find_dotenv
 
 
+
 load_dotenv(find_dotenv())
 start_price = si.get_live_price("gme")
 showfluff = os.getenv('SHOW_FLUFF')
